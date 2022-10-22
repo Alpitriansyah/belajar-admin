@@ -1,1 +1,2 @@
 Disini ialah pembelajaran tentang bahasa pemprograman php sebagai backend
+Dan juga untuk mengembangkan pemahaman
